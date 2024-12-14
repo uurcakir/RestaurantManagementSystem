@@ -1,5 +1,5 @@
 #TR#
-  Programın Amacı : Bir restoranda kullanılabilecek şekilde, - - - - 
+  Programın Amacı : Bir restoranda kullanılabilecek şekilde, 
    -Menü Yönetimi 
    -Masa Tanımlama ve Yönetimi, 
    -Sipariş Alma 
@@ -30,8 +30,8 @@
       o Erişim seviyesi user sınıfı kullanıcılardır.
 
 #EN#
-  Purpose of the Program: Restaurant Management System designed for use in a restaurant to handle, - - - - 
-  Menu Management 
+  Purpose of the Program: Restaurant Management System designed for use in a restaurant to handle, 
+    -Menu Management 
    -Table Definition and Management 
    -Order Taking 
    -User Definition 
@@ -55,3 +55,8 @@
   6. Order Entry Menu:  
       o To add items from the restaurant menu as orders to tables that are open for service.  
       o User class users have access level.
+
+
+![login](https://github.com/user-attachments/assets/54f6bfda-9ee1-4b62-ae8f-1f98feb6ff72)
+![mainMenu](https://github.com/user-attachments/assets/612785ac-d09f-4ec7-8183-e020f649b718)
+
